@@ -1,0 +1,11 @@
+error_type,message,count
+AuthService unavailable: 503 Service Unavailable,AuthService unavailable: 503 Service Unavailable,2115
+Payment declined: Gateway unavailable,Payment declined: Gateway unavailable,1683
+Timeout waiting for lock on {db},Timeout waiting for lock on InventoryDB,1638
+Connection refused to {service} at {ip},Connection refused to WebServer at 10.0.0.45,487
+Connection refused to {service} at {ip},Connection refused to AuthService at 10.0.0.45,190
+Connection refused to {service} at {ip},Connection refused to OrderProcessor at 10.0.0.45,162
+Connection refused to {service} at {ip},Connection refused to WebServer at 10.0.0.12,130
+Connection refused to {service} at {ip},Connection refused to PaymentGateway at 10.0.0.45,99
+Connection refused to {service} at {ip},Connection refused to WebServer at 10.0.0.88,89
+Connection refused to {service} at {ip},Connection refused to AuthService at 10.0.0.12,55

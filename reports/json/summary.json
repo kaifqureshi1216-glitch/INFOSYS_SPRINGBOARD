@@ -1,0 +1,14 @@
+{
+  "total_logs": 201010,
+  "total_errors": 12895,
+  "error_rate": 0.06415103726182778,
+  "log_level_counts": {
+    "INFO": 161276,
+    "ERROR": 12895,
+    "WARN": 19840,
+    "CRITICAL": 6999
+  },
+  "unique_ips": 307,
+  "unique_services": 6,
+  "unique_error_types": 12
+}

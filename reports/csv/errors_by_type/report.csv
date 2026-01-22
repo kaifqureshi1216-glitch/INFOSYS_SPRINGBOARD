@@ -1,0 +1,13 @@
+error_type,count
+Connection refused to database {db} at {ip},2575
+AuthService unavailable: 503 Service Unavailable,2115
+Transaction {id} rolled back due to timeout,1992
+Connection refused to {service} at {ip},1690
+Payment declined: Gateway unavailable,1683
+Timeout waiting for lock on {db},1638
+Payment transaction {id} failed: Gateway Timeout,606
+NullPointerException in module {module} processing request {id},592
+Invalid API key provided,1
+Database connection timeout,1
+File not found exception,1
+Job execution failed due to timeout,1
